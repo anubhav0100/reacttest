@@ -1,0 +1,2 @@
+export const RECIEVE = 'RECIEVE_REQUEST';
+export const REQUEST = 'REQUEST_REQUEST';
